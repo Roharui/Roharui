@@ -1,5 +1,4 @@
-# ✅ 김태윤 | 고등학교 3학년 | <a href="mailto:jack555586@gmail.com">📧 e-mail</a> 
-<p>👨‍💻 대구소프트웨어고등학교에서 공부하다가 (주) 제이솔류션에 현장실습에 나와있는 김태윤입니다.</p>
+# ✅ 김태윤 | 고등학교 3학년 (성인) | <a href="mailto:jack555586@gmail.com">📧 e-mail</a> 
 
 [![Roharui's github stats](https://github-readme-stats.vercel.app/api?username=Roharui&show_icons=true&hide_border=true&count_private=true)](https://github.com/Roharui)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roharui&hide=r,jupyter%20notebook,c%23&exclude_repo=roharui.github.io)](https://github.com/anuraghazra/github-readme-stats)
