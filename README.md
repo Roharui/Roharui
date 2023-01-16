@@ -4,13 +4,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jack555586@gmail.com)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
----
-
 ## TEAM
 
 ![Discord Banner 2](https://discordapp.com/api/guilds/1005003843072966817/widget.png?style=banner2)
-
----
 
 ## Lang
 
