@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/283456038982778880)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jack555586@gmail.com)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://meowing-antique-816.notion.site/6a4817c286b4484bbc498bd0cbd27dc0)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://roharui.notion.site/6a4817c286b4484bbc498bd0cbd27dc0)
 
 ## TEAM
 
